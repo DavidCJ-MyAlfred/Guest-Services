@@ -1,0 +1,7 @@
+{
+  "alias": "moltin-nextjs-demo-store",
+  "dotenv": true,
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
